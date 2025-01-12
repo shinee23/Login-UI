@@ -1,0 +1,1 @@
+This is a static login page design. It showcases an elegant and modern interface with multiple sign-in options, including Google, Facebook, and email/password login. The design features a gradient background and a clean layout perfect for integration into projects. This is a design-only implementation. 
